@@ -86,23 +86,25 @@ p {
     background-color: #2589bd;
 }
 
+/* Setting Font Color and Margin */
 .benefit-font {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/* Setting Alignment */
 .benefit-font h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
+/* Aligning Photos */
 .benefit-font img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-
+/* Setting Margins as well as font and colors */
 .main {
     margin-bottom: 20px;
     padding: 50px;
@@ -112,10 +114,12 @@ p {
     color: #ffffff;
 }
 
+/* Setting Image height */
 .main img {
     max-height: 200px;
 }
 
+/* Setting Margin and Font Size */
 .main h2 {
     margin-bottom: 20px;
     font-size: 36px;
